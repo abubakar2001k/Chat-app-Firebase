@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chat_application
 
 chat_application
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Chat-app-Firebase
+Chat app with firebase Realtime Database .....
+>>>>>>> ceb574e3efafcc36705763cd5e6f2f0a6e6b694d
